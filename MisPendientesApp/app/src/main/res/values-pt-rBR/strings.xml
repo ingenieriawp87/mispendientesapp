@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplicativoMeusBrincos</string>
+    <string name="app_name_2">Aplicativo Meus Brincos</string>
+    <string name="agregar_tareas">adicionar tarefas</string>
+    <string name="agregar_tarea">adicionar tarefa</string>
+    <string name="nombre_de_la_tarea">Nome da lição de casa</string>
+    <string name="consultar_tareas">consultar tarefas</string>
+    <string name="detalle_de_la_tarea">detalhe da tarefa</string>
+    <string name="la_tarea_se_agrego_satisfactoriamente">A tarefa foi adicionada com sucesso</string>
+    <string name="verifique_los_datos_para_ingresar_la_tarea">Verifique os dados para entrar na tarefa</string>
+    <string name="borrar_tarea">Tem certeza de que deseja excluir a tarefa?</string>
+    <string name="si">Sim</string>
+    <string name="no">Não</string>
+    <string name="la_tarea_no_fue_eliminada">Ok, a tarefa não será excluída</string>
+    <string name="la_tarea_si_fue_eliminada">A tarefa foi excluída</string>
+</resources>

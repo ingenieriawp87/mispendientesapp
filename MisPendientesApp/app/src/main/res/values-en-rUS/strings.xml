@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyEarringsApp</string>
+    <string name="app_name_2">My Earrings App</string>
+    <string name="agregar_tareas">Add Task</string>
+    <string name="agregar_tarea">Add Task</string>
+    <string name="consultar_tareas">Consult Task</string>
+    <string name="nombre_de_la_tarea">Task Name</string>
+    <string name="detalle_de_la_tarea">Task Detail</string>
+    <string name="la_tarea_se_agrego_satisfactoriamente">The task was added successfully</string>
+    <string name="verifique_los_datos_para_ingresar_la_tarea">Verify the data to enter the task</string>
+    <string name="borrar_tarea">Are you sure you want to delete the task?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="la_tarea_no_fue_eliminada">Ok the task will not be deleted</string>
+    <string name="la_tarea_si_fue_eliminada">The task was deleted</string>
+</resources>

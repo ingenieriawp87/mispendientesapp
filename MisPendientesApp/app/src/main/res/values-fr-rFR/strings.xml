@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ApplicationMesbouclesdoreilles</string>
+    <string name="app_name_2" translatable="false">Application Mes boucles doreilles</string>
+    <string name="agregar_tareas" translatable="false">Ajouter des tâches</string>
+    <string name="agregar_tarea" translatable="false">Ajouter une tâche</string>
+    <string name="consultar_tareas" translatable="false">Consulter les tâches</string>
+    <string name="nombre_de_la_tarea" translatable="false">Nom du devoir</string>
+    <string name="detalle_de_la_tarea" translatable="false">Détail de la tâche</string>
+    <string name="la_tarea_se_agrego_satisfactoriamente" translatable="false">La tâche a été ajoutée avec succès</string>
+    <string name="verifique_los_datos_para_ingresar_la_tarea" translatable="false">Vérifier les données pour saisir la tâche</string>
+    <string name="borrar_tarea" translatable="false">Voulez-vous vraiment supprimer la tâche ?</string>
+    <string name="si" translatable="false">Ouais</string>
+    <string name="no" translatable="false">Non</string>
+    <string name="la_tarea_no_fue_eliminada" translatable="false">Ok la tâche ne sera pas supprimée</string>
+    <string name="la_tarea_si_fue_eliminada" translatable="false">La tâche a été supprimée</string>
+</resources>

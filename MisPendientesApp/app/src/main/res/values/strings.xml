@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MisPendientesApp</string>
+    <string name="app_name_2" translatable="false">Mis Pendientes App</string>
+    <string name="agregar_tareas" translatable="false">Agregar tareas</string>
+    <string name="agregar_tarea" translatable="false">Agregar tarea</string>
+    <string name="consultar_tareas" translatable="false">Consultar tareas</string>
+    <string name="nombre_de_la_tarea" translatable="false">Nombre de la tarea</string>
+    <string name="detalle_de_la_tarea" translatable="false">Detalle de la tarea</string>
+    <string name="la_tarea_se_agrego_satisfactoriamente" translatable="false">La tarea se agregó satisfactoriamente</string>
+    <string name="verifique_los_datos_para_ingresar_la_tarea" translatable="false">Verifique los datos para ingresar la tarea</string>
+    <string name="borrar_tarea" translatable="false">¿Seguro que desea eliminar la tarea?</string>
+    <string name="si" translatable="false">Si</string>
+    <string name="no" translatable="false">No</string>
+    <string name="la_tarea_no_fue_eliminada" translatable="false">Ok no se eliminara la tarea</string>
+    <string name="la_tarea_si_fue_eliminada" translatable="false">La tarea fue eliminada</string>
+</resources>

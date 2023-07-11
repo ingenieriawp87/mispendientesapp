@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MeineOhrringe-App</string>
+    <string name="app_name_2" translatable="false">Meine Ohrringe-App</string>
+    <string name="agregar_tareas" translatable="false">Aufgaben hinzufügen</string>
+    <string name="agregar_tarea" translatable="false">Aufgabe hinzufügen</string>
+    <string name="consultar_tareas" translatable="false">Aufgaben konsultieren</string>
+    <string name="nombre_de_la_tarea" translatable="false">Name der Hausaufgabe</string>
+    <string name="detalle_de_la_tarea" translatable="false">Aufgabendetails</string>
+    <string name="la_tarea_se_agrego_satisfactoriamente" translatable="false">Die Aufgabe wurde erfolgreich hinzugefügt</string>
+    <string name="verifique_los_datos_para_ingresar_la_tarea" translatable="false">Überprüfen Sie die Daten, um die Aufgabe einzugeben</string>
+    <string name="borrar_tarea" translatable="false">Sind Sie sicher, dass Sie die Aufgabe löschen möchten?</string>
+    <string name="si" translatable="false">Ja</string>
+    <string name="no" translatable="false">NEIN</string>
+    <string name="la_tarea_no_fue_eliminada" translatable="false">Ok, die Aufgabe wird nicht gelöscht</string>
+    <string name="la_tarea_si_fue_eliminada" translatable="false">Die Aufgabe wurde gelöscht</string>
+</resources>
